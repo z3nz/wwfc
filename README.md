@@ -2,7 +2,7 @@
 CLI for finding words to play in words with friends or scrabble.
 
 <p align="center">
- <img src="https://github.com/z3nz/wwfc/raw/master/assets/usage.png" width="600">
+ <img src="https://github.com/z3nz/wwfc/raw/master/assets/usage.gif" width="600">
 </p>
 
 ## Install
