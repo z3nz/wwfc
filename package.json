@@ -1,6 +1,6 @@
 {
   "name": "wwfc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI for cheating in words with friends and scrabble.",
   "repository": "https://github.com/z3nz/wwfc",
   "bin": {
