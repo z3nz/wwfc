@@ -2,9 +2,10 @@
 const prog = require('caporal')
 const chalk = require('chalk')
 const dict = require('./dictionary')
+const package = require('./package')
 
 prog
-  .version('1.0.0')
+  .version(package.version)
   .description('A CLI for cheating in words with friends and scrabble.')
   .argument('<letters>', 'Letters to search with.')
   .argument('[length]', 'Length of the word to search for.')
