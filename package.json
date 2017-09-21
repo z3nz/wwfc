@@ -1,0 +1,31 @@
+{
+  "name": "wwfc",
+  "version": "1.0.0",
+  "description": "A CLI for cheating in words with friends and scrabble.",
+  "bin": {
+    "wwfc": "./wwfc.js"
+  },
+  "main": "wwfc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "words",
+    "with",
+    "friends",
+    "scrabble",
+    "cheat",
+    "wwf",
+    "word",
+    "finder",
+    "find",
+    "letters",
+    "letter"
+  ],
+  "author": "Adam Lynch <adamlynchmob@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "caporal": "^0.7.0",
+    "chalk": "^2.1.0"
+  }
+}
