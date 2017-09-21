@@ -2,6 +2,7 @@
   "name": "wwfc",
   "version": "1.0.0",
   "description": "A CLI for cheating in words with friends and scrabble.",
+  "repository": "https://github.com/z3nz/wwfc",
   "bin": {
     "wwfc": "./wwfc.js"
   },
